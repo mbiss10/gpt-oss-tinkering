@@ -1,1 +1,3 @@
-# gpt-oss-tinkering
+# gpt-oss tinkering
+
+Messy demo of sycophancy steering
